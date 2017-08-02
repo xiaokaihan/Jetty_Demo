@@ -1,0 +1,14 @@
+
+#######################
+### Reference: https://www.acando.no/thedailypassion/200555/a-rest-service-with-jetty-and-jersey
+#######################
+
+
+http://localhost:2222/home/hello
+
+http://localhost:2222/home/param?name=Me
+
+http://localhost:2222/home/path/Me
+
+file:///C:/2gotrade/Eclipse_Workspace/JettyJerseySocket.io_Sample/src/resource/index.html
+
